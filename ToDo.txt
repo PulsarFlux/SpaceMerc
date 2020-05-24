@@ -1,0 +1,11 @@
+Possibly create functions for key presses/moving etc.
+Add full location switching/screen displaying (should merge with pausing ie gametime control).
+Add HUD.
+Obviously AI at some point.
+Add more game mechanics.
+Add functions into all the classes for their full drawing, creating etc.
+Proper content manager for pictures etc.
+Data manager for enemy types, weapon types etc.
+CURRENT: More Projectile Manager stuff ie Projectile collisions with enemies and scenery possbily using zone check system, possible separation of Main char projectiles and enemy projectiles.
+Sort out full health stuff.
+Go through the whole thing and replace all hard coding of values.
